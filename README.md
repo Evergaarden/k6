@@ -1,1 +1,2 @@
-# practice with k6 (performance testing)
+# k6
+Practice with k6 (performance testing)
